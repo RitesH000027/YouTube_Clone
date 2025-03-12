@@ -3,7 +3,7 @@ import { Link, useLocation, useNavigate } from "react-router-dom";
 
 import ytLogo from "../images/yt-logo.png";
 import ytLogoMobile from "../images/yt-logo-mobile.png";
-import Aman_profile from "../images/aman.png"
+import Ritesh_profile from "../images/ritesh.png"
 
 import { SlMenu } from "react-icons/sl";
 import { IoIosSearch } from "react-icons/io";
@@ -96,7 +96,7 @@ const Header = () => {
           </div>
         </div>
         <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4 border">
-          <img src={Aman_profile} alt="profile"/>
+          <img src={Ritesh_profile} alt="profile"/>
         </div>
       </div>
     </div>
